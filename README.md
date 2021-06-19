@@ -1,4 +1,4 @@
-# Atividade 02: esruturas de seleção
+# Atividade 02: estruturas de seleção
 
 Consulte o PDF do enunciado para mais instruções.
 
