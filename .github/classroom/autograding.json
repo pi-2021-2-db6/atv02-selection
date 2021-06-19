@@ -1,0 +1,2624 @@
+{
+  "tests": [
+    {
+      "name": "equacao_quadratica_1",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "48\r\n98\r\n48",
+      "output": "-1.226\r\n-0.816",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_2",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "67\r\n84\r\n-20",
+      "output": "-1.458\r\n0.205",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_3",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "27\r\n50\r\n67",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_4",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "89\r\n36\r\n-58",
+      "output": "-1.034\r\n0.630",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_5",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "90\r\n-42\r\n46",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_6",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "58\r\n-52\r\n-73",
+      "output": "-0.760\r\n1.656",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_7",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-25\r\n88\r\n-13",
+      "output": "0.155\r\n3.365",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_8",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "12\r\n35\r\n19",
+      "output": "-2.195\r\n-0.721",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_9",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "69\r\n-50\r\n-66",
+      "output": "-0.681\r\n1.405",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_10",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-9\r\n17\r\n20",
+      "output": "-0.820\r\n2.709",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_11",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "4\r\n33\r\n97",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_12",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-19\r\n-26\r\n29",
+      "output": "-2.096\r\n0.728",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_13",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.567\r\n0.817\r\n-0.881",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_14",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.52\r\n-0.381\r\n0.25",
+      "output": "-1.151\r\n0.418",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_15",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.55\r\n0.487\r\n-0.191",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_16",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.359\r\n0.707\r\n-0.601",
+      "output": "-2.611\r\n0.641",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_17",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.957\r\n0.012\r\n0.843",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_18",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.265\r\n-0.124\r\n-0.171",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_19",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.465\r\n-0.908\r\n0.461",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_20",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.534\r\n-0.695\r\n0.643",
+      "output": "Raizes complexas",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_21",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.328\r\n-0.033\r\n0.755",
+      "output": "-1.568\r\n1.468",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_22",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.575\r\n0.547\r\n-0.708",
+      "output": "-1.683\r\n0.732",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_23",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0.693\r\n0.536\r\n-0.273",
+      "output": "-1.124\r\n0.350",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_24",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "-0.156\r\n-0.726\r\n0.091",
+      "output": "-4.776\r\n0.122",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_25",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0\r\n0.112\r\n0.933",
+      "output": "Nao eh quadratica",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_26",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0\r\n-0.974\r\n0.934",
+      "output": "Nao eh quadratica",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_27",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0\r\n0.797\r\n-0.804",
+      "output": "Nao eh quadratica",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_28",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0\r\n0.943\r\n-0.649",
+      "output": "Nao eh quadratica",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_29",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "0\r\n0.243\r\n0.485",
+      "output": "Nao eh quadratica",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_30",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "1\r\n0\r\n0",
+      "output": "0.000",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_31",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "1\r\n0.6\r\n0.09",
+      "output": "-0.300",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_32",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "2.5\r\n5\r\n2.5",
+      "output": "-1.000",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_33",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "1.0\r\n-1.0\r\n0.25",
+      "output": "0.500",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "equacao_quadratica_34",
+      "setup": "",
+      "run": "python equacao_quadratica.py",
+      "input": "1\r\n14\r\n49",
+      "output": "-7.000",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_1",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "4\r\n6",
+      "output": "Subtotal: R$105.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$113.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_2",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n9",
+      "output": "Subtotal: R$45.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$53.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_3",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n2",
+      "output": "Subtotal: R$30.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$34.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_4",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n10",
+      "output": "Subtotal: R$150.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$158.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_5",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n7",
+      "output": "Subtotal: R$35.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$43.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_6",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n6",
+      "output": "Subtotal: R$90.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$98.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_7",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "1\r\n2",
+      "output": "Subtotal: R$16.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$20.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_8",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "2\r\n5",
+      "output": "Subtotal: R$67.50\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$75.50",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_9",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "5\r\n1",
+      "output": "Subtotal: R$5.50\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$9.50",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_10",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n4",
+      "output": "Subtotal: R$60.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$68.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_11",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "2\r\n6",
+      "output": "Subtotal: R$81.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$89.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_12",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "2\r\n2",
+      "output": "Subtotal: R$27.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$31.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_13",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n4",
+      "output": "Subtotal: R$20.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$28.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_14",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n10",
+      "output": "Subtotal: R$150.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$158.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_15",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n3",
+      "output": "Subtotal: R$15.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$19.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_16",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n3",
+      "output": "Subtotal: R$45.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$49.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_17",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n5",
+      "output": "Subtotal: R$75.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$83.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_18",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "3\r\n6",
+      "output": "Subtotal: R$90.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$98.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_19",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "5\r\n2",
+      "output": "Subtotal: R$11.00\r\nTaxa de entrega: R$4.00\r\nTotal a pagar: R$15.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_20",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n10",
+      "output": "Subtotal: R$50.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$58.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_21",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n10",
+      "output": "Subtotal: R$50.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$58.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_22",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "1\r\n9",
+      "output": "Subtotal: R$72.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$80.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_23",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n4",
+      "output": "Subtotal: R$20.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$28.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_24",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "1\r\n9",
+      "output": "Subtotal: R$72.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$80.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_25",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "6\r\n10",
+      "output": "Subtotal: R$50.00\r\nTaxa de entrega: R$8.00\r\nTotal a pagar: R$58.00",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_26",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "12\r\n2",
+      "output": "Codigo invalido",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_27",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "14\r\n4",
+      "output": "Codigo invalido",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "delivery_lanche_28",
+      "setup": "",
+      "run": "python delivery_lanche.py",
+      "input": "14\r\n8",
+      "output": "Codigo invalido",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case1",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.800559\r\n0.270235\r\n0.154809\r\n0.837634\r\n0.711966\r\n0.565026\r\n0.269686\r\n0.231950",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case1",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.711966\r\n0.565026\r\n0.269686\r\n0.231950\r\n0.800559\r\n0.270235\r\n0.154809\r\n0.837634",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case2",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.267382\r\n0.016090\r\n0.406521\r\n0.458242\r\n0.648865\r\n0.637452\r\n0.038210\r\n0.408459",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case2",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.648865\r\n0.637452\r\n0.038210\r\n0.408459\r\n0.267382\r\n0.016090\r\n0.406521\r\n0.458242",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case3",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.823703\r\n0.225332\r\n0.208407\r\n0.179451\r\n0.779960\r\n0.587240\r\n0.321906\r\n0.804708",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case3",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.779960\r\n0.587240\r\n0.321906\r\n0.804708\r\n0.823703\r\n0.225332\r\n0.208407\r\n0.179451",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case4",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.122114\r\n0.185821\r\n0.808457\r\n0.351728\r\n0.400849\r\n0.613550\r\n0.420883\r\n0.503826",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case4",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.400849\r\n0.613550\r\n0.420883\r\n0.503826\r\n0.122114\r\n0.185821\r\n0.808457\r\n0.351728",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case5",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.892656\r\n0.428310\r\n0.099846\r\n0.818540\r\n0.281259\r\n0.076403\r\n0.571968\r\n0.439519",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case5",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.281259\r\n0.076403\r\n0.571968\r\n0.439519\r\n0.892656\r\n0.428310\r\n0.099846\r\n0.818540",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case6",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.338298\r\n0.530286\r\n0.509762\r\n0.154373\r\n0.358718\r\n0.559949\r\n0.163828\r\n0.122855",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case6",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.358718\r\n0.559949\r\n0.163828\r\n0.122855\r\n0.338298\r\n0.530286\r\n0.509762\r\n0.154373",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case7",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.879590\r\n0.814554\r\n0.224784\r\n0.355216\r\n0.304511\r\n0.931526\r\n0.209085\r\n0.001199",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case7",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.304511\r\n0.931526\r\n0.209085\r\n0.001199\r\n0.879590\r\n0.814554\r\n0.224784\r\n0.355216",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case8",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.072623\r\n0.462557\r\n0.248611\r\n0.693176\r\n0.246978\r\n0.178009\r\n0.108076\r\n0.429541",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case8",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.246978\r\n0.178009\r\n0.108076\r\n0.429541\r\n0.072623\r\n0.462557\r\n0.248611\r\n0.693176",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case9",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.999174\r\n0.721359\r\n0.001163\r\n0.231908\r\n0.456409\r\n0.840397\r\n0.166441\r\n0.302722",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case9",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.456409\r\n0.840397\r\n0.166441\r\n0.302722\r\n0.999174\r\n0.721359\r\n0.001163\r\n0.231908",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case10",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.008547\r\n0.635941\r\n0.591379\r\n0.191137\r\n0.570413\r\n0.759640\r\n0.118717\r\n0.143261",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case10",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.570413\r\n0.759640\r\n0.118717\r\n0.143261\r\n0.008547\r\n0.635941\r\n0.591379\r\n0.191137",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case11",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.566711\r\n0.462285\r\n0.276469\r\n0.341386\r\n0.766374\r\n0.638280\r\n0.326229\r\n0.079461",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case11",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.766374\r\n0.638280\r\n0.326229\r\n0.079461\r\n0.566711\r\n0.462285\r\n0.276469\r\n0.341386",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case12",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.604351\r\n0.573986\r\n0.290543\r\n0.336563\r\n0.091409\r\n0.563825\r\n0.820016\r\n0.812236",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case12",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.091409\r\n0.563825\r\n0.820016\r\n0.812236\r\n0.604351\r\n0.573986\r\n0.290543\r\n0.336563",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case13",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.007421\r\n0.430592\r\n0.724278\r\n0.234743\r\n0.954698\r\n0.542302\r\n0.052907\r\n0.746394",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case13",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.954698\r\n0.542302\r\n0.052907\r\n0.746394\r\n0.007421\r\n0.430592\r\n0.724278\r\n0.234743",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case14",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.995941\r\n0.057053\r\n0.007349\r\n0.392204\r\n0.203691\r\n0.920174\r\n0.876583\r\n0.119660",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case14",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.203691\r\n0.920174\r\n0.876583\r\n0.119660\r\n0.995941\r\n0.057053\r\n0.007349\r\n0.392204",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case15",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.805189\r\n0.657668\r\n0.001314\r\n0.030951\r\n0.313371\r\n0.409137\r\n0.429730\r\n0.025178",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case15",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.313371\r\n0.409137\r\n0.429730\r\n0.025178\r\n0.805189\r\n0.657668\r\n0.001314\r\n0.030951",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case16",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.271787\r\n0.723900\r\n0.347319\r\n0.497261\r\n0.792681\r\n0.617006\r\n0.055517\r\n0.075248",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case16",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.792681\r\n0.617006\r\n0.055517\r\n0.075248\r\n0.271787\r\n0.723900\r\n0.347319\r\n0.497261",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case17",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.289440\r\n0.271344\r\n0.747198\r\n0.021537\r\n0.402991\r\n0.063922\r\n0.232160\r\n0.849009",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case17",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.402991\r\n0.063922\r\n0.232160\r\n0.849009\r\n0.289440\r\n0.271344\r\n0.747198\r\n0.021537",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case18",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.692654\r\n0.874468\r\n0.042932\r\n0.185301\r\n0.117965\r\n0.964651\r\n0.765667\r\n0.055772",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case18",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.117965\r\n0.964651\r\n0.765667\r\n0.055772\r\n0.692654\r\n0.874468\r\n0.042932\r\n0.185301",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case19",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.664965\r\n0.490444\r\n0.303860\r\n0.821436\r\n0.638815\r\n0.446359\r\n0.477898\r\n0.325756",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case19",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.638815\r\n0.446359\r\n0.477898\r\n0.325756\r\n0.664965\r\n0.490444\r\n0.303860\r\n0.821436",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case20",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.329597\r\n0.510292\r\n0.461326\r\n0.863661\r\n0.369666\r\n0.674179\r\n0.944019\r\n0.305223",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case20",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.369666\r\n0.674179\r\n0.944019\r\n0.305223\r\n0.329597\r\n0.510292\r\n0.461326\r\n0.863661",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case21",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.010448\r\n0.610592\r\n0.718695\r\n0.544247\r\n0.805661\r\n0.124223\r\n0.071356\r\n0.707780",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case21",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.805661\r\n0.124223\r\n0.071356\r\n0.707780\r\n0.010448\r\n0.610592\r\n0.718695\r\n0.544247",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case22",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.142635\r\n0.829750\r\n0.495691\r\n0.009261\r\n0.890885\r\n0.165152\r\n0.074600\r\n0.501864",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case22",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.890885\r\n0.165152\r\n0.074600\r\n0.501864\r\n0.142635\r\n0.829750\r\n0.495691\r\n0.009261",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case23",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.635805\r\n0.333034\r\n0.325034\r\n0.168741\r\n0.032099\r\n0.480368\r\n0.784386\r\n0.961552",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case23",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.032099\r\n0.480368\r\n0.784386\r\n0.961552\r\n0.635805\r\n0.333034\r\n0.325034\r\n0.168741",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case24",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.217217\r\n0.641587\r\n0.628832\r\n0.675006\r\n0.425295\r\n0.815409\r\n0.142473\r\n0.141453",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case24",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.425295\r\n0.815409\r\n0.142473\r\n0.141453\r\n0.217217\r\n0.641587\r\n0.628832\r\n0.675006",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case25",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.598901\r\n0.424372\r\n0.310449\r\n0.555800\r\n0.709383\r\n0.516392\r\n0.168495\r\n0.210686",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case25",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.709383\r\n0.516392\r\n0.168495\r\n0.210686\r\n0.598901\r\n0.424372\r\n0.310449\r\n0.555800",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case26",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.688085\r\n0.638542\r\n0.102810\r\n0.190589\r\n0.740187\r\n0.391308\r\n0.281202\r\n0.383968",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case26",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.740187\r\n0.391308\r\n0.281202\r\n0.383968\r\n0.688085\r\n0.638542\r\n0.102810\r\n0.190589",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case27",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.380651\r\n0.332943\r\n0.221681\r\n0.643298\r\n0.126955\r\n0.898750\r\n0.500257\r\n0.113257",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case27",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.126955\r\n0.898750\r\n0.500257\r\n0.113257\r\n0.380651\r\n0.332943\r\n0.221681\r\n0.643298",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case28",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.350401\r\n0.769287\r\n0.375221\r\n0.274396\r\n0.652605\r\n0.751231\r\n0.618801\r\n0.379199",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case28",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.652605\r\n0.751231\r\n0.618801\r\n0.379199\r\n0.350401\r\n0.769287\r\n0.375221\r\n0.274396",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case29",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.437314\r\n0.796429\r\n0.300868\r\n0.173132\r\n0.505213\r\n0.003984\r\n0.512853\r\n0.901728",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case29",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.505213\r\n0.003984\r\n0.512853\r\n0.901728\r\n0.437314\r\n0.796429\r\n0.300868\r\n0.173132",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case30",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.466923\r\n0.628545\r\n0.042618\r\n0.383319\r\n0.596286\r\n0.447536\r\n0.564590\r\n0.753166",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case30",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.596286\r\n0.447536\r\n0.564590\r\n0.753166\r\n0.466923\r\n0.628545\r\n0.042618\r\n0.383319",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case31",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.746820\r\n0.411251\r\n0.108921\r\n0.381552\r\n0.664534\r\n0.482244\r\n0.110348\r\n0.387750",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case31",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.664534\r\n0.482244\r\n0.110348\r\n0.387750\r\n0.746820\r\n0.411251\r\n0.108921\r\n0.381552",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case32",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.463099\r\n0.793579\r\n0.739031\r\n0.185209\r\n0.129351\r\n0.623972\r\n0.623744\r\n0.377650",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case32",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.129351\r\n0.623972\r\n0.623744\r\n0.377650\r\n0.463099\r\n0.793579\r\n0.739031\r\n0.185209",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case33",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.146405\r\n0.771799\r\n0.348957\r\n0.120102\r\n0.973513\r\n0.267451\r\n0.006387\r\n0.907095",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case33",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.973513\r\n0.267451\r\n0.006387\r\n0.907095\r\n0.146405\r\n0.771799\r\n0.348957\r\n0.120102",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case34",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.520474\r\n0.631164\r\n0.584638\r\n0.172198\r\n0.092091\r\n0.494349\r\n0.301738\r\n0.150861",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case34",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.092091\r\n0.494349\r\n0.301738\r\n0.150861\r\n0.520474\r\n0.631164\r\n0.584638\r\n0.172198",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case35",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.232116\r\n0.823175\r\n0.160781\r\n0.325714\r\n0.997119\r\n0.630450\r\n0.004345\r\n0.174693",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case35",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.997119\r\n0.630450\r\n0.004345\r\n0.174693\r\n0.232116\r\n0.823175\r\n0.160781\r\n0.325714",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case36",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.491809\r\n0.931541\r\n0.888232\r\n0.075393\r\n0.793195\r\n0.212084\r\n0.237498\r\n0.348616",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case36",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.793195\r\n0.212084\r\n0.237498\r\n0.348616\r\n0.491809\r\n0.931541\r\n0.888232\r\n0.075393",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case37",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.031787\r\n0.360622\r\n0.275468\r\n0.163825\r\n0.322867\r\n0.940206\r\n0.465884\r\n0.081844",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case37",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.322867\r\n0.940206\r\n0.465884\r\n0.081844\r\n0.031787\r\n0.360622\r\n0.275468\r\n0.163825",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case38",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.814023\r\n0.273689\r\n0.232179\r\n0.291238\r\n0.645918\r\n0.450758\r\n0.174665\r\n0.882207",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case38",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.645918\r\n0.450758\r\n0.174665\r\n0.882207\r\n0.814023\r\n0.273689\r\n0.232179\r\n0.291238",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case39",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.955486\r\n0.525104\r\n0.058621\r\n0.087351\r\n0.177839\r\n0.960677\r\n0.210021\r\n0.026086",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case39",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.177839\r\n0.960677\r\n0.210021\r\n0.026086\r\n0.955486\r\n0.525104\r\n0.058621\r\n0.087351",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case40",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.029534\r\n0.273160\r\n0.471059\r\n0.365069\r\n0.851381\r\n0.788292\r\n0.132808\r\n0.334641",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case40",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.851381\r\n0.788292\r\n0.132808\r\n0.334641\r\n0.029534\r\n0.273160\r\n0.471059\r\n0.365069",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case41",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.395995\r\n0.886800\r\n0.297643\r\n0.201424\r\n0.639389\r\n0.208135\r\n0.463087\r\n0.621163",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case41",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.639389\r\n0.208135\r\n0.463087\r\n0.621163\r\n0.395995\r\n0.886800\r\n0.297643\r\n0.201424",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case42",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.360862\r\n0.655077\r\n0.480097\r\n0.275156\r\n0.871956\r\n0.094976\r\n0.160594\r\n0.861138",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case42",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.871956\r\n0.094976\r\n0.160594\r\n0.861138\r\n0.360862\r\n0.655077\r\n0.480097\r\n0.275156",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case43",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.115007\r\n0.726431\r\n0.029638\r\n0.188333\r\n0.550938\r\n0.077119\r\n0.394165\r\n0.630802",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case43",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.550938\r\n0.077119\r\n0.394165\r\n0.630802\r\n0.115007\r\n0.726431\r\n0.029638\r\n0.188333",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case44",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.988453\r\n0.978495\r\n0.003916\r\n0.003308\r\n0.317152\r\n0.306829\r\n0.470202\r\n0.309985",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case44",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.317152\r\n0.306829\r\n0.470202\r\n0.309985\r\n0.988453\r\n0.978495\r\n0.003916\r\n0.003308",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case45",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.959651\r\n0.634153\r\n0.011567\r\n0.406086\r\n0.380076\r\n0.675502\r\n0.504866\r\n0.046808",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case45",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.380076\r\n0.675502\r\n0.504866\r\n0.046808\r\n0.959651\r\n0.634153\r\n0.011567\r\n0.406086",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case46",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.343883\r\n0.104625\r\n0.869956\r\n0.665794\r\n0.794177\r\n0.442690\r\n0.319634\r\n0.896359",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case46",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.794177\r\n0.442690\r\n0.319634\r\n0.896359\r\n0.343883\r\n0.104625\r\n0.869956\r\n0.665794",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case47",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.735494\r\n0.942893\r\n0.507673\r\n0.001953\r\n0.938455\r\n0.533462\r\n0.032135\r\n0.822530",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case47",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.938455\r\n0.533462\r\n0.032135\r\n0.822530\r\n0.735494\r\n0.942893\r\n0.507673\r\n0.001953",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case48",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.850766\r\n0.966006\r\n0.038707\r\n0.053913\r\n0.182113\r\n0.004833\r\n0.773721\r\n0.738779",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case48",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.182113\r\n0.004833\r\n0.773721\r\n0.738779\r\n0.850766\r\n0.966006\r\n0.038707\r\n0.053913",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case49",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.858078\r\n0.145463\r\n0.237779\r\n0.559814\r\n0.566160\r\n0.461783\r\n0.369607\r\n0.897245",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case49",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.566160\r\n0.461783\r\n0.369607\r\n0.897245\r\n0.858078\r\n0.145463\r\n0.237779\r\n0.559814",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case50",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.634818\r\n0.845822\r\n0.241034\r\n0.282916\r\n0.730886\r\n0.919413\r\n0.141639\r\n0.067668",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case50",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.730886\r\n0.919413\r\n0.141639\r\n0.067668\r\n0.634818\r\n0.845822\r\n0.241034\r\n0.282916",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case51",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.041881\r\n0.166855\r\n0.503726\r\n0.748426\r\n0.409256\r\n0.172374\r\n0.745053\r\n0.930496",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case51",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.409256\r\n0.172374\r\n0.745053\r\n0.930496\r\n0.041881\r\n0.166855\r\n0.503726\r\n0.748426",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case52",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.604112\r\n0.064565\r\n0.418298\r\n0.574868\r\n0.124533\r\n0.604932\r\n0.975702\r\n0.597271",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case52",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.124533\r\n0.604932\r\n0.975702\r\n0.597271\r\n0.604112\r\n0.064565\r\n0.418298\r\n0.574868",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case53",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.693254\r\n0.457614\r\n0.334606\r\n0.464260\r\n0.513861\r\n0.153343\r\n0.509357\r\n0.404012",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case53",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.513861\r\n0.153343\r\n0.509357\r\n0.404012\r\n0.693254\r\n0.457614\r\n0.334606\r\n0.464260",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case54",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.746546\r\n0.159583\r\n0.231214\r\n0.636910\r\n0.687815\r\n0.997571\r\n0.533328\r\n0.004456",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case54",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.687815\r\n0.997571\r\n0.533328\r\n0.004456\r\n0.746546\r\n0.159583\r\n0.231214\r\n0.636910",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case55",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.880535\r\n0.846080\r\n0.012104\r\n0.178345\r\n0.379768\r\n0.108103\r\n0.901912\r\n0.508004",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case55",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.379768\r\n0.108103\r\n0.901912\r\n0.508004\r\n0.880535\r\n0.846080\r\n0.012104\r\n0.178345",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case56",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.399158\r\n0.465502\r\n0.403208\r\n0.811160\r\n0.609996\r\n0.036301\r\n0.558719\r\n0.386305",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case56",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.609996\r\n0.036301\r\n0.558719\r\n0.386305\r\n0.399158\r\n0.465502\r\n0.403208\r\n0.811160",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case57",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.745444\r\n0.858270\r\n0.217887\r\n0.172558\r\n0.843631\r\n0.275320\r\n0.048650\r\n0.522036",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case57",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.843631\r\n0.275320\r\n0.048650\r\n0.522036\r\n0.745444\r\n0.858270\r\n0.217887\r\n0.172558",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case58",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.647984\r\n0.013168\r\n0.211284\r\n0.340853\r\n0.241572\r\n0.903688\r\n0.791684\r\n0.138311",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case58",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.241572\r\n0.903688\r\n0.791684\r\n0.138311\r\n0.647984\r\n0.013168\r\n0.211284\r\n0.340853",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case59",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.374668\r\n0.944935\r\n0.186298\r\n0.035171\r\n0.146175\r\n0.304563\r\n0.914887\r\n0.541708",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case59",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.146175\r\n0.304563\r\n0.914887\r\n0.541708\r\n0.374668\r\n0.944935\r\n0.186298\r\n0.035171",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case60",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.814270\r\n0.280289\r\n0.318498\r\n0.100525\r\n0.093496\r\n0.854537\r\n0.629599\r\n0.258016",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case60",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.093496\r\n0.854537\r\n0.629599\r\n0.258016\r\n0.814270\r\n0.280289\r\n0.318498\r\n0.100525",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case61",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.733356\r\n0.384767\r\n0.440070\r\n0.755813\r\n0.263184\r\n0.275831\r\n0.103228\r\n0.116030",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case61",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.263184\r\n0.275831\r\n0.103228\r\n0.116030\r\n0.733356\r\n0.384767\r\n0.440070\r\n0.755813",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case62",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.731317\r\n0.546839\r\n0.304224\r\n0.530562\r\n0.576517\r\n0.081911\r\n0.339127\r\n0.625720",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case62",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.576517\r\n0.081911\r\n0.339127\r\n0.625720\r\n0.731317\r\n0.546839\r\n0.304224\r\n0.530562",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case63",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.668237\r\n0.008153\r\n0.620156\r\n0.599851\r\n0.245076\r\n0.356563\r\n0.169689\r\n0.455751",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case63",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.245076\r\n0.356563\r\n0.169689\r\n0.455751\r\n0.668237\r\n0.008153\r\n0.620156\r\n0.599851",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case64",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.485052\r\n0.527583\r\n0.507349\r\n0.757592\r\n0.906214\r\n0.608697\r\n0.168604\r\n0.168116",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case64",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.906214\r\n0.608697\r\n0.168604\r\n0.168116\r\n0.485052\r\n0.527583\r\n0.507349\r\n0.757592",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case65",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.817338\r\n0.099501\r\n0.007632\r\n0.681420\r\n0.714434\r\n0.207841\r\n0.188724\r\n0.418467",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case65",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.714434\r\n0.207841\r\n0.188724\r\n0.418467\r\n0.817338\r\n0.099501\r\n0.007632\r\n0.681420",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case66",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.909147\r\n0.464169\r\n0.041511\r\n0.569507\r\n0.217559\r\n0.662200\r\n0.119566\r\n0.105337",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case66",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.217559\r\n0.662200\r\n0.119566\r\n0.105337\r\n0.909147\r\n0.464169\r\n0.041511\r\n0.569507",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case67",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.506863\r\n0.039312\r\n0.876057\r\n0.522192\r\n0.579806\r\n0.046222\r\n0.306140\r\n0.512651",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case67",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.579806\r\n0.046222\r\n0.306140\r\n0.512651\r\n0.506863\r\n0.039312\r\n0.876057\r\n0.522192",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case68",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.306459\r\n0.661252\r\n0.034584\r\n0.465803\r\n0.180856\r\n0.179518\r\n0.406041\r\n0.721487",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case68",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.180856\r\n0.179518\r\n0.406041\r\n0.721487\r\n0.306459\r\n0.661252\r\n0.034584\r\n0.465803",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case69",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.958383\r\n0.495889\r\n0.027304\r\n0.544180\r\n0.630267\r\n0.726008\r\n0.128920\r\n0.465466",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case69",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.630267\r\n0.726008\r\n0.128920\r\n0.465466\r\n0.958383\r\n0.495889\r\n0.027304\r\n0.544180",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case70",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.244033\r\n0.360180\r\n0.756970\r\n0.354392\r\n0.624038\r\n0.338962\r\n0.191951\r\n0.305805",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case70",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.624038\r\n0.338962\r\n0.191951\r\n0.305805\r\n0.244033\r\n0.360180\r\n0.756970\r\n0.354392",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case71",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.818458\r\n0.851831\r\n0.267123\r\n0.198834\r\n0.165595\r\n0.908719\r\n0.513813\r\n0.161715",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case71",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.165595\r\n0.908719\r\n0.513813\r\n0.161715\r\n0.818458\r\n0.851831\r\n0.267123\r\n0.198834",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case72",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.401409\r\n0.666294\r\n0.783881\r\n0.386317\r\n0.702166\r\n0.906043\r\n0.337983\r\n0.141773",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case72",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.702166\r\n0.906043\r\n0.337983\r\n0.141773\r\n0.401409\r\n0.666294\r\n0.783881\r\n0.386317",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case73",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.611786\r\n0.232285\r\n0.415442\r\n0.568197\r\n0.530625\r\n0.784806\r\n0.074550\r\n0.220625",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case73",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.530625\r\n0.784806\r\n0.074550\r\n0.220625\r\n0.611786\r\n0.232285\r\n0.415442\r\n0.568197",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case74",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.448638\r\n0.566299\r\n0.119448\r\n0.320990\r\n0.386557\r\n0.308050\r\n0.757617\r\n0.662834",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case74",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.386557\r\n0.308050\r\n0.757617\r\n0.662834\r\n0.448638\r\n0.566299\r\n0.119448\r\n0.320990",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case75",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.654617\r\n0.316756\r\n0.212323\r\n0.501708\r\n0.440069\r\n0.391800\r\n0.932057\r\n0.904774",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case75",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.440069\r\n0.391800\r\n0.932057\r\n0.904774\r\n0.654617\r\n0.316756\r\n0.212323\r\n0.501708",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case76",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.200572\r\n0.388756\r\n0.032744\r\n0.422213\r\n0.637399\r\n0.022681\r\n0.430429\r\n0.668897",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case76",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.637399\r\n0.022681\r\n0.430429\r\n0.668897\r\n0.200572\r\n0.388756\r\n0.032744\r\n0.422213",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case77",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.638305\r\n0.567441\r\n0.290968\r\n0.334193\r\n0.969662\r\n0.324322\r\n0.031832\r\n0.734702",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case77",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.969662\r\n0.324322\r\n0.031832\r\n0.734702\r\n0.638305\r\n0.567441\r\n0.290968\r\n0.334193",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case78",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.573999\r\n0.309068\r\n0.557338\r\n0.689164\r\n0.027013\r\n0.572828\r\n0.405982\r\n0.471437",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case78",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.027013\r\n0.572828\r\n0.405982\r\n0.471437\r\n0.573999\r\n0.309068\r\n0.557338\r\n0.689164",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case79",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.145487\r\n0.517050\r\n0.637769\r\n0.701639\r\n0.958551\r\n0.530863\r\n0.018658\r\n0.046996",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case79",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.958551\r\n0.530863\r\n0.018658\r\n0.046996\r\n0.145487\r\n0.517050\r\n0.637769\r\n0.701639",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case80",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.561581\r\n0.156493\r\n0.721758\r\n0.480656\r\n0.344498\r\n0.155074\r\n0.000760\r\n0.511250",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case80",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.344498\r\n0.155074\r\n0.000760\r\n0.511250\r\n0.561581\r\n0.156493\r\n0.721758\r\n0.480656",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case81",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.407238\r\n0.352901\r\n0.146245\r\n0.790934\r\n0.579644\r\n0.331542\r\n0.172826\r\n0.295997",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case81",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.579644\r\n0.331542\r\n0.172826\r\n0.295997\r\n0.407238\r\n0.352901\r\n0.146245\r\n0.790934",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case82",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.147327\r\n0.187749\r\n0.543385\r\n0.118018\r\n0.491105\r\n0.301468\r\n0.121466\r\n0.275771",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case82",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.491105\r\n0.301468\r\n0.121466\r\n0.275771\r\n0.147327\r\n0.187749\r\n0.543385\r\n0.118018",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case83",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.971925\r\n0.360327\r\n0.045945\r\n0.731910\r\n0.808982\r\n0.139691\r\n0.282889\r\n0.065228",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case83",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.808982\r\n0.139691\r\n0.282889\r\n0.065228\r\n0.971925\r\n0.360327\r\n0.045945\r\n0.731910",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case84",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.823264\r\n0.604527\r\n0.299238\r\n0.307123\r\n0.437786\r\n0.962371\r\n0.231868\r\n0.050954",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case84",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.437786\r\n0.962371\r\n0.231868\r\n0.050954\r\n0.823264\r\n0.604527\r\n0.299238\r\n0.307123",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case85",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.919180\r\n0.318795\r\n0.027543\r\n0.360258\r\n0.150345\r\n0.572264\r\n0.203052\r\n0.019046",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case85",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.150345\r\n0.572264\r\n0.203052\r\n0.019046\r\n0.919180\r\n0.318795\r\n0.027543\r\n0.360258",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case86",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.756347\r\n0.594433\r\n0.446316\r\n0.438193\r\n0.378674\r\n0.924014\r\n0.282789\r\n0.092871",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case86",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.378674\r\n0.924014\r\n0.282789\r\n0.092871\r\n0.756347\r\n0.594433\r\n0.446316\r\n0.438193",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case87",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.446012\r\n0.771668\r\n0.868040\r\n0.173534\r\n0.948294\r\n0.257423\r\n0.062922\r\n0.644255",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case87",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.948294\r\n0.257423\r\n0.062922\r\n0.644255\r\n0.446012\r\n0.771668\r\n0.868040\r\n0.173534",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case88",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.418633\r\n0.708293\r\n0.307464\r\n0.044102\r\n0.365335\r\n0.279574\r\n0.271246\r\n0.476057",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case88",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.365335\r\n0.279574\r\n0.271246\r\n0.476057\r\n0.418633\r\n0.708293\r\n0.307464\r\n0.044102",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case89",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.065618\r\n0.191198\r\n0.783232\r\n0.272620\r\n0.880538\r\n0.507489\r\n0.154141\r\n0.596104",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case89",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.880538\r\n0.507489\r\n0.154141\r\n0.596104\r\n0.065618\r\n0.191198\r\n0.783232\r\n0.272620",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case90",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.324589\r\n0.000177\r\n0.221649\r\n0.101667\r\n0.719088\r\n0.625228\r\n0.271096\r\n0.426471",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case90",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.719088\r\n0.625228\r\n0.271096\r\n0.426471\r\n0.324589\r\n0.000177\r\n0.221649\r\n0.101667",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case91",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.085974\r\n0.036854\r\n0.893223\r\n0.833955\r\n0.501870\r\n0.490266\r\n0.824043\r\n0.763873",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case91",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.501870\r\n0.490266\r\n0.824043\r\n0.763873\r\n0.085974\r\n0.036854\r\n0.893223\r\n0.833955",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case92",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.125041\r\n0.254335\r\n0.598109\r\n0.527977\r\n0.250887\r\n0.497418\r\n0.682493\r\n0.414324",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case92",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.250887\r\n0.497418\r\n0.682493\r\n0.414324\r\n0.125041\r\n0.254335\r\n0.598109\r\n0.527977",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case93",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.954379\r\n0.354984\r\n0.050262\r\n0.554197\r\n0.455141\r\n0.299807\r\n0.723235\r\n0.545489",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case93",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.455141\r\n0.299807\r\n0.723235\r\n0.545489\r\n0.954379\r\n0.354984\r\n0.050262\r\n0.554197",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case94",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.123824\r\n0.485316\r\n0.603303\r\n0.987850\r\n0.384468\r\n0.486489\r\n0.671809\r\n0.021448",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case94",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.384468\r\n0.486489\r\n0.671809\r\n0.021448\r\n0.123824\r\n0.485316\r\n0.603303\r\n0.987850",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case95",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.804207\r\n0.663737\r\n0.275291\r\n0.378552\r\n0.697138\r\n0.039644\r\n0.140166\r\n0.191131",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case95",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.697138\r\n0.039644\r\n0.140166\r\n0.191131\r\n0.804207\r\n0.663737\r\n0.275291\r\n0.378552",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case96",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.299571\r\n0.231428\r\n0.810037\r\n0.116303\r\n0.865858\r\n0.553905\r\n0.200610\r\n0.829154",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case96",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.865858\r\n0.553905\r\n0.200610\r\n0.829154\r\n0.299571\r\n0.231428\r\n0.810037\r\n0.116303",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case97",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.797792\r\n0.844436\r\n0.288607\r\n0.287115\r\n0.914638\r\n0.532734\r\n0.068856\r\n0.072404",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case97",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.914638\r\n0.532734\r\n0.068856\r\n0.072404\r\n0.797792\r\n0.844436\r\n0.288607\r\n0.287115",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case98",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.519377\r\n0.098360\r\n0.711270\r\n0.592974\r\n0.776382\r\n0.045511\r\n0.299782\r\n0.038911",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case98",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.776382\r\n0.045511\r\n0.299782\r\n0.038911\r\n0.519377\r\n0.098360\r\n0.711270\r\n0.592974",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case99",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.902419\r\n0.577028\r\n0.095167\r\n0.650257\r\n0.533968\r\n0.324775\r\n0.003561\r\n0.367443",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case99",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.533968\r\n0.324775\r\n0.003561\r\n0.367443\r\n0.902419\r\n0.577028\r\n0.095167\r\n0.650257",
+      "output": "Nao intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case100",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.196808\r\n0.696997\r\n0.683572\r\n0.390063\r\n0.464584\r\n0.670694\r\n0.506058\r\n0.597586",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    },
+    {
+      "name": "interseccao_retangulos_case100",
+      "setup": "",
+      "run": "python interseccao_retangulos.py",
+      "input": "0.464584\r\n0.670694\r\n0.506058\r\n0.597586\r\n0.196808\r\n0.696997\r\n0.683572\r\n0.390063",
+      "output": "Intersecciona",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
